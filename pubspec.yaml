@@ -1,0 +1,13 @@
+name: space_shooter_flame
+description: Space Shooter Flame game
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+  flutter: ^3.13.0
+
+dependencies:
+  flame: ^1.10.1
+  flutter:
+    sdk: flutter
